@@ -1,0 +1,21 @@
+{
+  "name": "pig-game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "challenge.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "script": "script.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nasirjamal455/ludo-game.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nasirjamal455/ludo-game/issues"
+  },
+  "homepage": "https://github.com/nasirjamal455/ludo-game#readme"
+}
+

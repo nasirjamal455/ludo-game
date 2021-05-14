@@ -75,3 +75,7 @@ document.querySelector('.player--0').classList.remove('player--active');
 document.querySelector('.player--1').classList.remove('player--active')
 document.querySelector('.player--'+activePlayer).classList.add('player--active')
 }
+const port = process.env.PORT || 3000
+app.listen(port, () => {
+ console.log('Server is up on port ' + port)
+})
